@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="read_network_and_console"
+    errors="0" failures="0" hostname="" id="" package="read_network_and_console" skipped="0"
+    tests="1" time="163.1" timestamp="">
+  
+    <testcase name="Read console &amp; network" classname="read_network_and_console" time="163.1" assertions="0">
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

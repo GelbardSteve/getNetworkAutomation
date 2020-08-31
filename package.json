@@ -1,0 +1,32 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "scripts": {
+    "start": "node nightwatch -e chrome --tag readConsoleNetwork",
+    "test": "node nightwatch -e chrome --tag"
+  },
+  "author": "steve",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.3",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.6",
+    "move-file": "^2.0.0",
+    "mysql": "^2.18.1",
+    "nightwatch": "^1.3.5",
+    "nightwatch-xhr": "^0.4.7",
+    "nodemon": "^2.0.4",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "puppeteer": "^5.2.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xlsx": "^0.15.4"
+  }
+}

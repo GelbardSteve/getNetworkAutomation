@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="1.check_login_page"
+    errors="0" failures="0" hostname="" id="" package="1.check_login_page" skipped="0"
+    tests="1" time="16.27" timestamp="">
+  
+    <testcase name="run login page test" classname="1.check_login_page" time="16.27" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

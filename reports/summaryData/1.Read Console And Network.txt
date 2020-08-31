@@ -1,0 +1,22 @@
+Time: 13:42, Date: 08-31-2020
+
+
+  Console Data:
+  level: SEVERE,
+  message: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2F&trk=login_reg_redirect 0 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com". Either the 'unsafe-inline' keyword, a hash ('sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28='), or a nonce ('nonce-...') is required to enable inline execution.
+,
+  source: security,
+  timestamp: 1598870535522
+
+  Console Data:
+  level: WARNING,
+  message: https://static-exp1.licdn.com/sc/h/d6n9qxmz1l9srd4ejxtd21aq3 0:25829 "Element with id: dust-var-isWWE not found",
+  source: console-api,
+  timestamp: 1598870535704
+
+  Console Data:
+  level: SEVERE,
+  message: https://static-exp1.licdn.com/sc/h/5moyp6zgsc0eklmq85j0gf6h4 291 [Report Only] Refused to connect to 'https://accounts.google.com/gsi/status?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&as=1NNjuufuo9PNWT7nPuLtxw' because it violates the following Content Security Policy directive: "connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com".
+,
+  source: security,
+  timestamp: 1598870535770

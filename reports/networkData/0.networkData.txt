@@ -1,0 +1,67 @@
+Time: 13:42, Date: 08-31-2020
+
+
+  Network Data:
+  URL: https://www.linkedin.com/feed/
+  responseStaus: 302
+  responseMethod: GET
+  responseMethod: document
+  responseMethod: 
+  
+  
+  Network Data:
+  URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+  responseStaus: 303
+  responseMethod: GET
+  responseMethod: document
+  responseMethod: 
+  
+  
+  Network Data:
+  URL: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2F&trk=login_reg_redirect
+  responseStaus: 200
+  responseMethod: GET
+  responseMethod: document
+  responseMethod: 
+  
+  
+  Network Data:
+  URL: https://static-exp1.licdn.com/sc/h/d6n9qxmz1l9srd4ejxtd21aq3
+  responseStaus: 200
+  responseMethod: GET
+  responseMethod: script
+  responseMethod: OK
+  
+  
+  Network Data:
+  URL: https://static-exp1.licdn.com/sc/p/com.linkedin.registration-fe%3Aregistration-fe-static-content%2B0.0.583/f/%2Fregistration-frontend%2Fstylesheets%2Fcold-join_en_US.css
+  responseStaus: 200
+  responseMethod: GET
+  responseMethod: stylesheet
+  responseMethod: OK
+  
+  
+  Network Data:
+  URL: https://static-exp1.licdn.com/sc/h/7zbtlt1y3i1p3ufd3i73vleod
+  responseStaus: 200
+  responseMethod: GET
+  responseMethod: script
+  responseMethod: OK
+  
+  
+  Network Data:
+  URL: https://static-exp1.licdn.com/sc/h/ofo3fqmypus602g02dqvlu6r
+  responseStaus: 200
+  responseMethod: GET
+  responseMethod: script
+  responseMethod: OK
+  
+  
+  Network Data:
+  URL: https://www.linkedin.com/platform-telemetry/csp?f=g
+  responseStaus: 200
+  responseMethod: POST
+  responseMethod: other
+  responseMethod: 
+  
+  

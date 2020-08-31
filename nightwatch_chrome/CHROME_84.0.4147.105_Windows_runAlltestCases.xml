@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="runAlltestCases"
+    errors="1" failures="0" hostname="" id="" package="runAlltestCases" skipped="0"
+    tests="1" time="0.009000" timestamp="">
+  
+    <testcase name="Run All Test Cases" classname="runAlltestCases" time="0.009000" assertions="0">
+      <error message="browser.url(...).waitForFirstXHR is not a function" type="error">TypeError: browser.url(...).waitForFirstXHR is not a function
+    at Object.Run All Test Cases (C:\Users\Steve\Desktop\Automations_Project\tests\runAlltestCases.js:19:8)
+    at Context.call (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\context.js:379:35)
+    at TestCase.run (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\testcase.js:49:31)
+    at Runnable.handleRunnable [as __runFn] (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\index.js:374:80)
+    at Runnable.run (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\runnable.js:123:21)
+    at TestSuite.createRunnable (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\index.js:441:33)
+    at TestSuite.handleRunnable (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\index.js:446:18)
+    at createSession.then.then._ (C:\Users\Steve\AppData\Roaming\npm\node_modules\nightwatch\lib\testsuite\index.js:374:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  TypeError: browser.url(...).waitForFirstXHR is not a function
+   - writing an ES6 async test case? - keep in mind that commands return a Promise; 
+   - writing unit tests? - make sure to specify &#34;unit_tests_mode=true&#34; in your config.[0m
+[0;90m       at Object.Run All Test Cases (C:\Users\Steve\Desktop\Automations_Project\tests\runAlltestCases.js:19:8)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

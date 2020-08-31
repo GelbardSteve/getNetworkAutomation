@@ -1,0 +1,56 @@
+{
+  "src_folders": "tests",
+  "output_folder": "nightwatch_chrome",
+  "custom_commands_path": ["./node_modules/nightwatch-xhr/es5/commands"],
+  "custom_assertions_path": ["./node_modules/nightwatch-xhr/es5/assertions"],
+  "page_objects_path": "",
+  "globals_path": "",
+
+  "selenium": {
+    "start_process": true,
+    "server_path": "./lib/drivers/selenium-server-standalone-3.141.59.jar",
+    "log_path": "",
+    "host": "127.0.0.1",
+    "port": 4444,
+    "cli_args": {
+      "webdriver.chrome.driver": "./lib/drivers/chromedriver.exe",
+      "webdriver.gecko.driver": "",
+      "webdriver.edge.driver": ""
+    }
+  },
+
+  "test_settings": {
+    "default": {
+      "launch_url": "http://localhost",
+      "selenium_port": 4444,
+      "selenium_host": "localhost",
+      "silent": true,
+      "suppressWebdriverErrors": true,
+      "screenshots": {
+        "enabled": true,
+        "path": ""
+      },
+      "desiredCapabilities": {
+        "browserName": "firefox",
+        "marionette": true
+      }
+    },
+
+    "chrome": {
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true,
+        "chromeOptions": {
+          "w3c": false
+        }
+      }
+    },
+
+    "edge": {
+      "desiredCapabilities": {
+        "browserName": "MicrosoftEdge"
+      }
+    }
+  }
+}
