@@ -4,8 +4,7 @@
   "description": "",
   "main": "nightwatch.js",
   "scripts": {
-    "start": "node nightwatch -e chrome --tag readConsoleNetwork",
-    "test": "node nightwatch -e chrome --tag"
+    "start": "node nightwatch -e chrome --tag readConsoleNetwork"
   },
   "author": "steve",
   "license": "ISC",

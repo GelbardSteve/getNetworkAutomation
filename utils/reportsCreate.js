@@ -8,7 +8,7 @@ const year = today.getFullYear();
 const todayDate = `${month}-${day}-${year}`;
 
 createReport = (repoName) => {
-  return `../automation_task/reports/${repoName}.txt`;
+  return `../getNetworkAutomation/reports/${repoName}.txt`;
 };
 
 getData = () => {
@@ -33,7 +33,7 @@ module.exports = {
 
   insertAllLogs: function (status, testName, test_cast_name) {
     fs.appendFile(
-      `../automation_task/reports/${testName}.txt`,
+      `../getNetworkAutomation/reports/${testName}.txt`,
       status,
       // callback function that is called after writing file is done
       (err) => {
@@ -41,7 +41,7 @@ module.exports = {
       }
     );
     fs.appendFile(
-      `../automation_task/reports/${test_cast_name}.txt`,
+      `../getNetworkAutomation/reports/${test_cast_name}.txt`,
       status,
       // callback function that is called after writing file is done
       (err) => {
@@ -52,7 +52,7 @@ module.exports = {
 
   insertStatusReport(comment, status, cell, testName) {
     fs.appendFile(
-      `../automation_task/reports/${testName}.txt`,
+      `../getNetworkAutomation/reports/${testName}.txt`,
       `${status ? "SUCCEED" : "FAILED"} At Comment: ${comment}, Data - ${
         typeof cell == "object" ? cell.join(" | ") : cell
       }\r\n`,
