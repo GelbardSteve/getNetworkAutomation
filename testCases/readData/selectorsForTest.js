@@ -2,13 +2,13 @@ module.exports = {
   //selector for console & network component
   selectors: {
 
-    url: "https://www.linkedin.com/feed/",
+    url: "https://www.geektime.co.il/",
 
     runMoreThanOnce: true,
 
-    timeToWait: 3000,
+    timeToWait: 10000,
 
-    timeToReloadThePage: 3,
+    timeToReloadThePage: 2,
     
   },
 };

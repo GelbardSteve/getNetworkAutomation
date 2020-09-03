@@ -1,22 +1,200 @@
-Time: 13:42, Date: 08-31-2020
+Time: 12:28, Date: 09-03-2020
 
+
+  Console Data:
+  level: SEVERE,
+  message: https://www.geektime.co.il/ - Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.,
+  source: rendering,
+  timestamp: 1599125340079
+
+  Console Data:
+  level: SEVERE,
+  message: https://www.geektime.co.il/wp-content/plugins/geektime-plugin-sqlink-calculator/assets/SQLINK2019SALARY.json?x58008&ver=1599076622 1:12 Uncaught SyntaxError: Unexpected token ':',
+  source: javascript,
+  timestamp: 1599125346987
 
   Console Data:
   level: WARNING,
-  message: https://static-exp1.licdn.com/sc/h/d6n9qxmz1l9srd4ejxtd21aq3 0:25829 "Element with id: dust-var-isWWE not found",
+  message: https://www.geektime.co.il/ - [DOM] Found 2 elements with non-unique id #s: (More info: https://goo.gl/9p2vKq) %o %o,
+  source: recommendation,
+  timestamp: 1599125347853
+
+  Console Data:
+  level: WARNING,
+  message: https://www.geektime.co.il/ - [DOM] Found 2 elements with non-unique id #searchform: (More info: https://goo.gl/9p2vKq) %o %o,
+  source: recommendation,
+  timestamp: 1599125347854
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu2sKVJp5uaNsiXs7XOPmImVACz66GqfGKCJ9hD3UcudOZU1tO4MVi7PsgiFCS43uNa8ZtlSoYNPIxccNX79zzcUxSo1ix6GWvooUGBQh6C1bYmjl1ykxWi3f0ZNG0orPaOzilxNLk3lYmDkG78KvfAXZaCs6MO_LN87yvDFXkoFlqMLNjfDYbvEAneGhCKJ15QAHSi3h4ojBBSso_3FoOFJUXdeeggt83-QRcptQR6hXNRE2n382tw4Pv9epWxKVm71qMrwMe6t8LpAEx3Wzw&sai=AMfl-YRKyAkbSXVfyg10-ObDx-VsEWLfdK03QePyNbYE8K-IqQWNAj9BdSsfAuzY-2g3VKdkNiKNmCCTt6qpp9c_JlfUdrsf5G3fGjqbB5yDPnB9KJlVXL-PBTzGt_N6M1qZ&sig=Cg0ArKJSzC3z6lOewrV6EAE&adurl=",
   source: console-api,
-  timestamp: 1598870530816
+  timestamp: 1599125362968
 
   Console Data:
-  level: SEVERE,
-  message: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2F&trk=login_reg_redirect 0 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com". Either the 'unsafe-inline' keyword, a hash ('sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28='), or a nonce ('nonce-...') is required to enable inline execution.
-,
-  source: security,
-  timestamp: 1598870530285
+  level: WARNING,
+  message: https://www.geektime.co.il/ - A cookie associated with a cross-site resource at http://go.sonobi.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.,
+  source: other,
+  timestamp: 1599125352481
 
   Console Data:
-  level: SEVERE,
-  message: https://static-exp1.licdn.com/sc/h/5moyp6zgsc0eklmq85j0gf6h4 291 [Report Only] Refused to connect to 'https://accounts.google.com/gsi/status?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&as=UNunwtFdIWne3sT29HK6NQ' because it violates the following Content Security Policy directive: "connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com".
-,
-  source: security,
-  timestamp: 1598870533881
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu0IIPBTRn5p1pl_tETOUiZxPNuSRI3btHmKIbX-1jJN0S3IyC2TCTQ_OO5_e5tBPr9ync9VxOdGlBF14iXM8GVc7YuwAov4jPNY7G0tInjhS7Fg66wxI2LUZTE212Xbi5FnLUefM5T3sgGYJG5NA0lM9zyazGmFjbu7stLzAr8RRDkEMrVcV-sCVDzj_9hnaBJ1SFrlSQr0UziR-V0pyObWbt3TJmzmdlOu9BPqRPRFLXkhR-OCJjA-Lj-Yesa5OybV-CFAhBi8xK5Dw&sai=AMfl-YRfOZqVPH-egzXpnK92z3WVCAjUIcFV12nQMYBHFknfS1DZ1AleuZRGIkLbd9XLXfKy79RVji5khftLT-67cYv1vsYCPkEfzw0g4dnRV0B-ZgN97qW6LAIbDxqG1II&sig=Cg0ArKJSzLm8FIBQgJjYEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://connect.facebook.net/he_IL/sdk.js?hash=25ef489dac2497335753ea1055985cbf&ua=modern_es6 51:300 "The \"fb-root\" div has not been created, auto-creating",
+  source: console-api,
+  timestamp: 1599125347810
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssO_KF63v8hlYUzR_UkfrRotiaJOkHswWZLm5MaWy8p4RzsliPKZo6-r5Ibp7GgDi1o-M7524DBGsK9sNXF-GaCZJU9F8fqfEjstUiDqjNvHHIyQ7lvfdee3euG1kl0XEVGx-Fz9c2k6ACuDaA6SjF2sB8vEWGUp59dCS-rOvd-0R1lCDkjuvE4jmnh45dtRSiHJIYWfnOaSN0NwTxC1Vm1QVlGM8BoPqxa9m16A5vdI2wKWWUPyJxoeyN0zeW7162D-qUU_ZSYwIAyiw&sai=AMfl-YQsCh7cUY19Rs0KpuPzh1P4518bVzDCHTRo4kvETd8t-wv6zbUQs4_VWN6FleBtyl9jcJbt11hKzfCbP7Z1pVBDe8j7hiQh1tpC__dUphyXMtRzNbKPpOZOpHK_-okV&sig=Cg0ArKJSzLTNbkjvtn_hEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuF9aod5hAuM2Q6o-ZS8YzfoiDQmyDXsm34AlWZ355J_hZ9tqk5oLonAEdx9gH6F4ZwJL4cldmvz_bH3Tdc1_ROPH0uAVat6Zg_Af5uvERfocp3VGn8TzEacbyt80dvGJBgTpCqrNc2hf3nYgaLE9MCe_eW01rf_DuWJGaoMPXeb49vXfzJniLUvBSGKDvc8_gknDvdsNcsdH4_2OO-DsIaLqDp3b7zUa3qGB5E4F82GdQraXJTrMJVsr0oRcTI8ChQnU2bywQhLPamrXU&sai=AMfl-YRbl7VGR0vLSokISuq593I_annLHjrFobbPawGZ1C4eIaBbk8THjh3wIK5M6_f2ikAbAi5GLboZidv3VbkObZbtKnJ-5FLBAINPAMlyD3E5lzTkAE1Nfhj9EVD0s6FR&sig=Cg0ArKJSzE7ifRQytZfOEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuFY_3EjKJHFOnXLdapYYd_eQZRrhaxIEP1I9TPsB8wQ4Ai9DUenlm6SAA6iK1cyqUlkodWl0NKeTS4C3FL5H9pxa5aN9XBNGzZa9PwpYMpW-JJsIY8Rgs9i7EGIYeKXkj1_UsFRlTx-aRxEqcKkhrow0Dkx7_PDGqEpUZrgw-ZtOLHXTQiTBfFujyZ-N1E-rsli7iLc4JKr2jwrOrvfzd6c_uztnSAyUqoomx2xOg3Pef9zYcE_wf64IqybEEE1zivUlMZQGMzOy1hyoSF&sai=AMfl-YR3qS6pPKt8DS1pAA-CrL5SiodTHYXo8ba3ZlGykUJu1OgsATkAevkrBbSNXle-004QD2dSb9koFFHeJRb4TE4LT61T9Cw7tK4hs0rw8O8At__5T2mSxkDKdf3k5jiw&sig=Cg0ArKJSzGlEcrE2n3g7EAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvhV7nyhddKTJpfxi3hW4FU6xEe1CdwHDUXWUVrq9IwG7sE2_AsIc4wn4egC7Mgo9sUQYCnVru-h2mmP8zQRZF-d33ymm86CpMalJAMtiqB_PDJv22oA0sAOYBryNwLs77p3oq08rOBiq88o-L4f4pBGOzSMBJQwZA9pgQya9vN8Ed5phKiF8cR49JFwKoAZJpwFQL8nH-qpRx2zsP3fnniOh9Bz8TTJ3d-MX0RGCkByJjcuEiX4X8Kax3BOJOuzdGt9dM9cYgQV-KrLg&sai=AMfl-YSICUqgEulQ7V6QOqXUOkEDBWsAk8yE11GFr-M62Y1fvzz_u3K9m61Ozxn9KTRyyd2aNbPWFPg7HDMTpB1UE7a8WdImafncHl08e85vCklafsoWd_1Bik7fBXpuH8s&sig=Cg0ArKJSzA4mSyc6LXx7EAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssZ6cjpzbjrpXH-F6rktGHO--i8ul3RTqiW971S0nE0LamYHSezme2Sd_SE3jvN6KHuWibkB1i0F04t9swC16ytMvtE257S6tk7zpibo6Tzj_JuNQgFYxRikxBpBVbZjXmnF6a2j4zKeh0CDxPMoG1MGr50nzbAEaJe0zo3XGWD8MajH1uloOLLYmLGmThQ2azGlrapUvicb__6Tcza3Mk9EPd4vs3yiFOt4VxvI3yJFqNUOKvCpU4ipHC_ttoSNQcNvmxTcZhoKNua0g&sai=AMfl-YSukx9yeXC5GpQQOLyou9xCUBmI3mvIwVxOSlszuZSgEmxbXsGvyqG_TFy4K7oFTfVAWxUZpnYxW8ZbKbuqYJUGqQNpMfcNFNR252Xyzy9-nQzZkVOuwACJUqPhzf8&sig=Cg0ArKJSzJPb9_G6HhvIEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsue2R7nN0BX04VbISvkeNeuuxeE1nwmxjc-u6rHDOJzsl17U9vWj-ka_Xp_oAfPH8ew-EhRV2_jg8dFlPOBn9-3fCisJkuXOnuOIstlUrXjY_mBOZfjfT8W-e1LAa1qvD5xkbRGv6emweMO6QUPbknDFmC9_4znVBnL2lhLA8WCjVxZ6tgjuaTboMru8Xx0vdZPybtCm30c6oE6riIPG1tTs9y1937VyfU1LtaVhoYqsb3IFqdPBWxRJXoDxgrGIRvBo2FpAztYOOA&sig=Cg0ArKJSzF28-3nbMuaNEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvJMMceNZxIJ5HQJ-7JxPbomHNRSOs7TYC5ZMil9Pe-WYZ8Q7ygpB7TRlucKqrajk2TO1x5FSZqmd37xrq8fU3oRdzcwoGoL60zLGzrjgtrlniFa0EeZki2fnx0ERgDtJMPFt1hHYGvROPYyeP7p6xNJetVJUXIbRNGgPKES7t5AJmdR96WJuHACVPOgrLU048J4etG2SaNTCW4KgsG5eK9INLWcblFFh73qDDkZGoYT8Sj2Eu23q9dFiaOfeSbbLU1FiN6zxCcO70&sig=Cg0ArKJSzJJkW8ZxciIFEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvvCslxlkBT9hT8kViKwE0KieU41aYTcQVcqajAX30oF7kE9CTk-7wHSEiz3iKw4WDUPl45EV1UlX1acUCqk5I058usxkk1DX9J9w-28SvqeQeJEcM5WIDw4k4cwnwCbteDqEzE96m9tcRrdwgNBach3MsQFHZCNQ97krlBP2FXHs-CUrLoMgBcmLqaVbNTSSwm4kJHpceZBLXRzryvjzSZ0T5EQ-Qh2nb1OWgIOVy-9OLMHYxuFwj99JXbkkCT9sNGloFO8yyNVTVvwA&sai=AMfl-YS-jjtM9Sn1tAKEW41XO_FsHLdqQR8M5MfMDlHZ-Sl5_QHS_qSU66Hd9SsiquGin919Hrmjw2rR3pMVfOEmtelT-9E_8blJ4qGo2uFRakgkMKSbFY6oyLpEdHXAnt1a&sig=Cg0ArKJSzFWwKejDfEKjEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssTnaEY60ZBUoF9mF-JOaJJUyHMrhHu0GFKjLPxrtvikU_hW5HeUxZm4grAUC9AXtcBoHOQzsJ9nndwjuVw9wULbC3RHobFGpAEytSfzeIL4nh6Xsh55Qrv3FQkpHAzpbWXcAOcxo-xPdAyo7fW7e-uAlbxe4CKcZbCn0maDmWwdjsir13rRbi7RTcbmpfYpAPe9_wfBBKLXKkIMLazKKmT6OhoaVdyaRrnlCqtefvIIzNiXa4N_cKvBXE5jJ3xG0Jh1Kbgq6_43CiCeTw&sai=AMfl-YTvwNZftRo_db13pXX6JmDiXOYXT4mmzrPx7OOIcvNfUiWk2uBM3OiisW6LbP-a5c6wrkVCMvFornlmqbVm3zhNU-JScfCTTNO-MqGXbwBtBsxNLUTIZY1GtmU3NGbT&sig=Cg0ArKJSzKPxG7n2QlIQEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362968
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjst13a5JcRUVOoo7iU4RBssdtMshuSGiIM6O7zTHj95oIjcfAwlu86BKZ9H_raknbR8xUc55BKuOBJK5kPeXjouCzIQIzVv6Pb3vXDB3WmD4Jc-CvbzJeGK3rHj4BgOsFoV0SyoHAOuyqSeWtoaJZ_ELJJMDXXSGd919HmDWD0kRmfjiH6ff4-c81hOCzYB9I__MKuChHqeLhLT60CAclUzKnBkIFMwxo86O8VNkfAkbx4UBbUXNLaMzNUNi0jv8FwhH8xz7McCq4RY&sig=Cg0ArKJSzIGxxMUaN7ryEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssKQ6BpTztDjWe5xibD5TmM7Ys6LHWmQb8V43bNCGOiuFZfOcHVWHQlGe-lg2uprB0wC7ne8440T0qs7tVOzQjCQsgjn-v0kcX1PSYj6Ywvip2okSEXgoMMthfo9Paw98z0cUanj6uLEA9rkAGMjF32cTu_qQ085gze4TfbsrdGzhbs7lgmS1AZ8tU0ahDsUXxx0CQA3h0JzOuu8bAIVrdFxxFXQCgGd2Zpa5LjDwYqfLJi2xf-_EhFrBFXwTJD96IVlz-NtTe_5pmctpFDqN0&sig=Cg0ArKJSzH0qcrH25eoKEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvhsW0FJxGw4bc5HqLN0yv0oDAAVDmDaoccmg8Dh0ptwQBbWH0kSpxcHmY3x3y2INf8k3oUNkH0NquUJDWloW9bXNHgPr0Ke3gwG5LtkhX2Nceu5UQ9tfYYwiiR-YRa6zNMXJjO_98-WR_m-gz1vxeATo1-lWml4SGH5nVBAIoEbYsf69jzIJKbmwNt_1QIQxSzqOtA8fBza3HXkhf5LSEKfO4UUdiBqXmYCtbG_ZedTHh0AtZCRsAQzNBMT3EWI_IOrHn3jEAsrvnz&sig=Cg0ArKJSzJyNKno5Y-j-EAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsshm-G8fn30-XA3B7M34d_q4z0F6bs2mKOVXLcQ9uot9iAvuTzmOhSfd-LXFaM3knT79pFdUWu3R-_OHZhQnTLD2EIl7fSgx_ZeRNOF6R6YQNo-kavaxU5VzS07zPSk4SlITfwEgsdTRab4GN4Q_GR0tiZRzjLSjAsU4ABlzk8AvXUMIEnJHFJ4bLAIDqnT5qwFhDSW7So3CZNrP2JFYPQxN2Jjl3giAbG_6a1zphuv07XR142XCNpNEKva5hYiBMfkK3ed8FUev84R1ppo3ho&sig=Cg0ArKJSzOyVkh4d-Lb7EAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsutlnIM9pO2s6F2hUNT7YYNOs4szQNca1LwC_LFrfJIQo1kH1n6ae0zmWT2N8tStv-YMavMA8oT8jFwhDiCiMevcOxfJkC2c2bp2DERt38EflHquylUpjETr9gRc3pPDL5WK0fuGc0tY5G41RQxEF5x_SH4X1FmRnyiJ-RCNO0136DGCCYNv_X4m6DENOgkjW4eyZUvZCVX3A-Uk3G92HIME2Az5z9O35eOvK32eD0n-7QdVYrmr5DUW_qR1DHbDWOiMIn_yQ-sdH9-&sig=Cg0ArKJSzEX6mUyna0Y0EAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvEH90t7TJz01eYzAOwO622pf1r-9ia-VVFA5PQj5fSmbJ7if5CDYFwW59ndBNzBS78VvMqOqSVUoUvFrFBh3wgfl1Ur23Mj5KRD7dbyN54YyBEACVRIIBfvL6PlB2U7MA4v6Xbq62IfQgCvmkurzafLAbzQKBKVPyapMxbpKRUrZf6lOrK5KH6kEjd8nrTPSGKAK8GYCVg0k3GPEu0H2cBEfOruU8dcxBxqBzYPmo6C7mwkqSI0jsarfyZJ9dVg48Th_qO5Hoemjsq&sig=Cg0ArKJSzH83ErftK3T6EAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstwWUEv1vO_MbDw0524nEvHw-t5xEL0ZxNGOrndJRAkrl9tuPgOubRVuTPlsCD21S1cv8Dk3MFHFCj8qD7xwy7dHIpL8A5_WRcpUjiPQfHWwLPoSPvjxIyls6bXmW9b25gcv0VUIWg8BHAPfwACgOK_ODs9yqKaz2hIpmL9FNkB6tj9XdCk4-6ean0-dvz1zdPOV0sKqt9rOrPPa14EQtLKuQH-rtoVgcsY8IlgMrjKrfVTYgiaY5TREMCx6__T0vNrErqGgZCE8b73WVt-400&sig=Cg0ArKJSzBotZbLqF2hUEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsv040jW4qgwax_Md2WVCsZ6wHcUlj_eGufmaHPUOYPPtMlnD9YFIDxNM7PWSR6PFqQqdYSfSM5KbbbHBCUYFC1kwb86vadpEVNI56tRpWPPTTFt0YHbKj9c-mV7S0IsE1lGb7pNnUYVXvdb7cRNbmuly9F8gm5YpCYmXDCZvP27ALve4-pR68BSXf1He4JwKuHhPiXeQtWODsroSJS35dad-GlzJ3gO5U_IgGmnIivhFBaSF7P82ZvGZ7o6lOEh1Q7hhjktXfM3bIO4&sig=Cg0ArKJSzAF2nW3RIJDhEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjst8DTArQnHJz3-QT-qO_d0so3GMn2aU1xwnINCKRS5EjZufIFs16Do_UN5gStjnKrsDM0Q8c6vRL-AFCQkOgEjQngWrZ9puu_Wkcx3PWsnp40bJoLgKZWEUUMhIQ_UOPubazB-QPV4oc5G2JN17xyDKL4mRsZ9hllagx9lGW_dhlgogYhRIfRR7GoORtE5lXoc7vMD1EMN3a5ZqiAo71VN1O9N2rfbMTcv013zTbIQ7WsQJBLDyjFf9jFvNwhxmR-hnUfCYSYU15B93&sig=Cg0ArKJSzOPrXxw_sojyEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstMGbGjNTzUZrRWVU-4zH9iseBcBcTjjqn-RRgd2nZs0mk8ANeaduZB0GP-lNKJqRieVuuf5NEEpq2EFAWv0HEGZMmBXtm6S6ozIGedJ4HlOeSqpG4J1ttf8zhVLnyXZwn7vxYwN-S05l94cp7fAXYwEzsvS8UimLjx5g-COUw9RoE1u8VTwo8dopDnDN3U0tWervsf7sUoHcasfxLEGimUH_f0lFZjVnNZ3XOjlFmwN-GxSBRDWHIB7hsfEUsLnylAI4Z36oGqL2k&sig=Cg0ArKJSzHHJg_zph7EmEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuh-ozPhhS0H4VJotCbVgw7YHZhST7zwrHV5tPep9lSIvSBvZcZTFj0tXkIsh6qgJxBRnAuvGOQeHJxMN1A-Bm8bS1WSSkw3Qez4dcL_O2ni1uBKSDLegQLvlQkSNLEtTugrPBvGuQr34PgRdMjKks3pKlIbq1PevcpSd17rYdUrlq17-_hK8OKYW0iDenuDNZi6t0FEfx2oFqgaGjWOf1kRZN3-Lyxo0HsFqC4bcmezF_n26Azg8rXqk-Xna-YaUNa5MBOf2z-fLY&sig=Cg0ArKJSzCC60e-8ZARwEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362970
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjst1kWqrNrOXagjPo37T3pgZTk5FnRNGC3dAHI71p1Eon07yssopGAHCtCKpfABXdNt8wsBjJ7ippuAG9ijgl_QLeEkd7EuZpkf7MIka8yu8DllnCHi_VI9O2Vsz7erKJj96wMq_-xh6q1lht3IcgJp6uLzuI4IwRJkNdqykPOwNNGCATG5-ZjS5BGKhRsJAIKWtOvp9yX5Ck18q13ezxovl39GIZviuuHSwv83Fqg9Bb4LsoSeAKZ1sS7AlBUemFeriEAPgOuRlW1ET&sig=Cg0ArKJSzIKUgCDQml7dEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362970
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstEV0kRgZF4WKfXAmhBy9N-4OVSwSh6dhJAYMqRu51fA16I1ELF6ddNSPFL1JgEXxOOz9jV4XW8ANOffg4cmDAQ4dkppD_jp9Rv5gW_0GsEBaqWVG2Zm3eR-m-UCNNnRYFSHby3NgagIqAR0p-XpCLICtYouaxXBoEbPpbKVSBqk7Hh27egViSgANmdpzIuy-T1Fc89fbmopkfNMgwtU36cDnHRYYS6QaDL5SrxTt249EmZzt81CVDj3Hn8DE_c9QHVJAQtWWfCwZs&sig=Cg0ArKJSzFnYsNoziyPjEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362969
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsv4EFzXZ5WpxfbxyYNDjIPhcuNleAVpL9ZdqjkTUkET1N6Vtxl1J6VTeCI-j9ze00JGWG6FtCsZTI6m2__9h3XFoGrB7xZ9XNqXZxcOUm2DMFoYZinkLhfXPRHpSysPWq6189hvrBKnMLnS6Ntkx79YW4CrahLPCkgf_NRM4J3WlMe9Kv_fURlD9KF_qoT45YJy_N3Ueq_mfiatM0gsmOZqemcT_VlTg2kkBiuyTEC1oC9gbcvIXSW7kcbyAEVCquqVBYhCLjVg1M_C&sig=Cg0ArKJSzGazF374gBpjEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362970
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuIK8odnAX9mm475P3pRNx0pslbhDDWug27TItJMl9UyA6IlELXnGftTDtxNuLer602x92LFk1P892owLozpSfjgYVVYJFbq-em6lAKCUTPWdfr4XssevgGsZc1CxDa_nnhAM-PWmOByJZ8MCJTgue660r8lZ4Yj84OCqi8JFGl8Vl6vB83nmq0FMU566ulelqpkI4nDfMsiEIsK4ixFcepM8Zr0eUDPnRkjTqLo66rttaKtdGgjkU6kb1voFBjjgUZfBeDgzrcwEDA&sig=Cg0ArKJSzBVAuLkeVIjlEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362970
+
+  Console Data:
+  level: WARNING,
+  message: https://cdn.ampproject.org/rtv/012008242301000/amp4ads-v0.js 20:254 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssRF1rQdrJPdSTpGNIBK-H4hP8UeF0P15b-6k_u74TpV5bxvkXquL4UXAUTYeaAIYuYfxgiiB29BKy3nhr8Cknp2mcwmLQ8hHMgIunMogpozGYPr0IIXdh8FEh6Z-ubGV0c__udd_K1Cf-C9b-W_xUPiT4UM6k489T3SL7Hv0HQVcDFbe-IQ6j59DpXLmU7xwln1LUHnXMMzX31Ln0rPtklxC1MttdUZZvATM4dTmt046hung9VIqfUXDI5LzUZorVCPpcmF2hnVsxA&sig=Cg0ArKJSzNqZXUzOQBOtEAE&adurl=",
+  source: console-api,
+  timestamp: 1599125362970
